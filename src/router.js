@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "./views/Home";
-import About from "./views/About";
+import Home from "./views/home";
+import About from "./views/about";
 
 Vue.use(VueRouter);     // Vue 내에서 Router를 사용하겠다는 의미
 
@@ -17,3 +17,5 @@ const router = new VueRouter({
         component: About    // /about Path로 들어오면 Component Aout을 Loading 하겠다는 의미
     }]          
 });
+
+export default router;

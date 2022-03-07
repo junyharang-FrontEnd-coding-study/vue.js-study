@@ -1,24 +1,10 @@
-# junyharang_vue_study
+# [Vue.js] 기초 개념 정리
 
-## Project setup
-```
-npm install
-```
+##### 참고 자료: https://www.youtube.com/watch?v=sqH0u8wN4Rs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 정리 자료<br><br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+JunyHarang's Blog<br><br>
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[\[Vue.js\] 기초 개념 정리 - 기본 환경 구성](https://junyharang.tistory.com/202)
+[\[Vue.js\] 기초 개념 정리 - Vue Router](https://junyharang.tistory.com/203)
