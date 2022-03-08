@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "./views/Home";
-import About from "./views/About";
+import Home from "./views/HomeJunyHarang";
+import About from "./views/AboutJunyHarang";
 
 Vue.use(VueRouter);     // Vue 내에서 Router를 사용하겠다는 의미
 
